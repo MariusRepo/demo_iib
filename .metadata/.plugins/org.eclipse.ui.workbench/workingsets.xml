@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="com.ibm.etools.mft.navigator.BrokerWorkingSet.AppLib" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1642512371175_1" label="[DEMOAPP]" name="[DEMOAPP]">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/DEMOAPP" type="4"/>
+</workingSet>
+<workingSet editPageId="com.ibm.etools.mft.navigator.BrokerWorkingSet.AppLib" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1642512386532_2" label="[MESSAGE_LYBRARY]" name="[MESSAGE_LYBRARY]">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/MESSAGE_LYBRARY" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1642512078950_0" label="Window Working Set" name="Aggregate for window 1642512078950"/>
+</workingSetManager>
